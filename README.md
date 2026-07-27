@@ -38,3 +38,7 @@ button >
     background: blue >
     text: white >
     radius: 10 >
+```
+### How to make a File in LSS
+
+To make a file in LSS you need to do style then you add .lss to it.
