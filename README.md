@@ -42,3 +42,5 @@ button >
 ### How to make a File in LSS
 
 To make a file in LSS you need to do style then you add .lss to it.
+
+#### Want to learn styling without having to learn CSS, then LSS is perfect for you!
