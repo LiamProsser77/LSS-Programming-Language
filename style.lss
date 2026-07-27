@@ -1,0 +1,10 @@
+lss >
+
+body >
+    background: black >
+    text: white >
+
+button >
+    background: blue >
+    text: white >
+    radius: 10 >
