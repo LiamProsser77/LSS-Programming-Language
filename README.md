@@ -43,4 +43,16 @@ button >
 
 To make a file in LSS you need to do style then you add .lss to it.
 
+
+Variables for LSS
+```
+lss > Means you are starting to style in LSS
+body > Means you are styling the body of the website
+background > Means you are styling the background of your website
+text > Means you are styling the text of the website
+button > Means you are styling the button of the website
+radius > Means where you are putting each object in your website
+```
+
 #### Want to learn styling without having to learn CSS, then LSS is perfect for you!
+
