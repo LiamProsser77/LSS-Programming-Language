@@ -41,10 +41,10 @@ button >
 ```
 ### How to make a File in LSS
 
-To make a file in LSS you need to do style then you add .lss to it.
+To make a file in LSS you need to do style then you add *.lss* to it.
 
 
-Variables for LSS
+### Variables for LSS
 ```
 lss > Means you are starting to style in LSS
 body > Means you are styling the body of the website
